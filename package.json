@@ -19,7 +19,7 @@
 		"guriddo"
 	],
 	"dependencies": {
-		"grunt": "~0.4.1",
+		"grunt": "~1.0.0",
 		"grunt-contrib-coffee": "~0.7.x",
 		"grunt-contrib-jshint": "~0.6.x",
 		"grunt-contrib-watch": "~0.5.x",
